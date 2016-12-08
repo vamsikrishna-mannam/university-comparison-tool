@@ -1,0 +1,29 @@
+﻿.jumbotron h1{
+    color: darkgoldenrod;
+    font-family: 'Century Schoolbook';
+    font-style: italic;
+}
+
+.jumbotron p{
+    color:black;
+    font-family:'Century Schoolbook';
+    font-style:italic;
+}
+
+.jumbotron h3{
+    color: red;
+    font-family:'Century Schoolbook';
+    font-style:italic;
+}
+
+.jumbotron h4{
+    color: blueviolet;
+    font-family:'Century Schoolbook';
+    font-style:italic;
+}
+
+.btn-group btn-group-justified a {
+    font-family: 'Century Schoolbook';
+    font-style: italic;
+}
+
